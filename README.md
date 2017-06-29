@@ -1,4 +1,4 @@
-# Udemy: Python for Data Science and Machine Learning Bootcamp
+# Udemy: Python for Data Science and Machine Learning
 
 This repository contains my work for Udemy's Python for Data Science and Machine Learning Bootcamp course.
 
